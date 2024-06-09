@@ -65,3 +65,7 @@
 Ce post-mortem met en lumière l'importance d'une surveillance complète et d'une gestion des configurations. En abordant la cause profonde et en mettant en œuvre les mesures correctives énumérées, nous visons à éviter des pannes similaires à l'avenir et à garantir la stabilité et la fiabilité de nos services. Rappelez-vous, même les meilleurs systèmes peuvent avoir un mauvais jour. C'est la manière dont nous le gérons qui fait la différence.
 
 ![Restez Calme et Surveillez](https://via.placeholder.com/800x400?text=Restez+Calme+et+Surveillez)
+
+---
+
+© 2024 MrBoodj. Tous droits réservés.
